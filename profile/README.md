@@ -8,6 +8,10 @@ Meru AI offers a range of advanced functionalities to enhance and automate your 
 - [Docs](https://docs.meruai.net/)
 
 ## Tech Stack
- - Frontend: React, Next.js, React Native, Expo, TypeScript, Material UI.
+- Frontend: React, Next.js, React Native, Expo, TypeScript, Material UI.
 - Backend: Node.js, Express.js, TypeScript, Redis, PostgreSQL, BullMQ.
 - Third-Party APIs: Gmail API, PaLM API, Gemini API, Bittensor API, Stripe API.
+
+## Brand Kit
+- Logo
+![321359642-927e43d5-4a26-495a-9737-d7166ba2f800 (1)](https://github.com/Meru-AI-Dev/.github/assets/165311010/2253a5db-0c70-4b0e-95d7-7d40288c1653)
